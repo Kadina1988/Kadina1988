@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://dribbble.com/shots/709830-Ruby-GIF/attachments/8493655?mode=media" width="100"/>
+</div>  
 
 <!--
 **Kadina1988/Kadina1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
